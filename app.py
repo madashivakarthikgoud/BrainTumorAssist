@@ -104,9 +104,6 @@ def main():
         <h1 style="font-size: 2.5rem; font-weight: 700; text-align: center; margin-bottom: 0.5rem;">
             NEUROVISION
         </h1>
-        <div style="text-align: center; color: var(--accent); margin-bottom: 2rem;">
-            AI-Powered Brain Analysis System
-        </div>
     </div>
     """, unsafe_allow_html=True)
 
